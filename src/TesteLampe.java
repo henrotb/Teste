@@ -5,11 +5,10 @@ public class TesteLampe {
 	
 	Lampe malampe=new Lampe();
 	
-	if(malampe.estAllumee)
+	if(malampe.isEstAllumee==true)
 	    malampe.eteindre();
 	else
 	    malampe.allumer();
-	
 	
 
     }
