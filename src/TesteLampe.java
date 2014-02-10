@@ -9,7 +9,7 @@ public class TesteLampe {
 	    malampe.eteindre();
 	else
 	    malampe.allumer();
-	
+System.out.println("bonjour");	
 
     }
 
